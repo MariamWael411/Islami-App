@@ -57,7 +57,7 @@ class _SebhaTabState extends State<SebhaTab> {
                   Center(
                     child: Padding(
                       padding: EdgeInsets.only(top: height(context) * 0.11,
-                          bottom: height(context) * 0.04),
+                          bottom: height(context) * 0.03),
                       child: Column(
                         spacing: height(context) * 0.05,
                         children: [
