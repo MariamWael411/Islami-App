@@ -25,5 +25,4 @@ class AppImage {
   static const String hadethDecoration = '${_path}hadethDecoration.png';
   static const String hadethDecorationCard =
       '${_path}HadithCardBackGround 1.png';
-  static const String Sebha = '${_path}Sebha.png';
 }
